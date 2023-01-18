@@ -30,8 +30,8 @@ body {
 }
 
 #me_header #me_cover img {
-    width: 240px;
-    height: 240px;
+    width: 250px;
+    height: 300px;
     border-radius: 50%;
     display: block;
     margin-bottom: 15px;
